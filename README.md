@@ -18,12 +18,12 @@
 
 ---
 
-## 🚀 Overview
+## Overview
 
 **Server Palindromes** is a minimalistic backend API built with **pure Node.js** — no frameworks, no clutter.  
 It analyzes input text and determines if it’s a **palindrome** (reads the same backward and forward).
 
-🧠 *Perfect for learning about string manipulation, HTTP servers, and clean API design.*
+*Perfect for learning about string manipulation, HTTP servers, and clean API design.*
 
 ---
 
@@ -33,6 +33,10 @@ It analyzes input text and determines if it’s a **palindrome** (reads the same
 - 🔹 **Fast** — simple HTTP server  
 - 🔹 **Reliable** — deployed on [Render](https://render.com)  
 - 🔹 **JSON API** — clean, modern responses  
+
+---
+
+<img width="1600" height="780" alt="Screenshot 2025-11-10 at 20 08 39" src="https://github.com/user-attachments/assets/f139c42e-5365-461b-b0d9-9d65600f0dda" />
 
 ---
 
@@ -65,4 +69,5 @@ server-palindromes/
 ├── server.js        # Main Node.js server
 ├── package.json     # Dependencies and metadata
 └── README.md        # Documentation
+
 
